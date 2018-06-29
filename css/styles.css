@@ -33,3 +33,12 @@ h1{
   height:auto;
   width: auto;
 }
+.p1{
+  font-family: monospace;
+}
+.p2{
+  font-family: courier New;
+}
+.p3{
+  font-stretch: 300%;
+}
