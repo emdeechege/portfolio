@@ -11,10 +11,8 @@
   align-content: center;
 }
 
-}
-
 .box {
-  border: 3px solid red;
+  border: 3px solid green;
 }
 
 ol {
@@ -22,7 +20,7 @@ ol {
   background-color: #CEF1DD;
 }
 
-.one{
+.one {
   background-color: #F1FCD0;
 }
 
@@ -55,6 +53,7 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.dad{
-  color:cyan;
+
+.dad {
+  color: cyan;
 }

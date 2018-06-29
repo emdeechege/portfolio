@@ -1,19 +1,22 @@
-img{
+img {
   float: right;
   margin: auto;
 }
 
-.note{
-  color:red;
+.note {
+  color: red;
 }
-h2{
+
+h2 {
   font-family: serif;
   font-style: italic;
-  font-size: 25px;}
-
-.stop{
-  background-color:#F1FCD0 ;
+  font-size: 25px;
 }
-h1{
+
+.stop {
+  background-color: #F1FCD0;
+}
+
+h1 {
   font-style: italic;
-  color: #186A3B  ;
+  color: #186A3B;
