@@ -1,3 +1,12 @@
+body{
+  width: 80%;
+  margin: auto;
+}
+
+.header{
+  margin-top: 45px;
+}
+
 .img1 {
   float: right;
 }
@@ -13,9 +22,12 @@
 
 .box {
   border: 3px solid green;
+  padding: 15px;
+  width: 75%;
 }
 
 ol {
+  margin: 0;
   text-align: justify;
   background-color: #CEF1DD;
 }
@@ -24,8 +36,9 @@ ol {
   background-color: #F1FCD0;
 }
 
-img {
+.joy {
   float: right;
+  margin-left: 10px;
 }
 
 h1 {
@@ -56,4 +69,14 @@ h1 {
 
 .dad {
   color: cyan;
+}
+
+.box1 {
+  border: 3px solid green;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+p{
+  margin: 0;
 }

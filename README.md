@@ -1,16 +1,26 @@
-#Tom Chege's Portfolio
+\#Tom Chege's Portfolio
+
 ## Description
+
 {This is mostly a communications website about myself and a few of my accomplishments so far.}
+
 ### Known Bugs
+
 {Still polishing my CSS skills. Landing page is still a work in progress}
+
 #### Technologies Used
+
 {I have used HTML and CSS to build my pages}
+
 ##### Support and contact details
+
 {Please contact Tom Chege on email:emdeechege@gmail.com. for any queries or contributions}
+
 ###### License
+
 {MIT License
 
-Copyright (c) [2018] [Tom Maina Chege]
+Copyright (c) [2018][tom maina chege]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
