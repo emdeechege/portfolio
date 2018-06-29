@@ -1,44 +1,57 @@
-.img1{
+.img1 {
   float: right;
 }
 
-.column{
+.column {
   width=350px;
   float: right;
 }
-.menu{
+
+.menu {
   align-content: center;
 }
+
 }
-.box{
-    border: 3px solid red;
-  }
-ol{
+
+.box {
+  border: 3px solid red;
+}
+
+ol {
   text-align: justify;
-  background-color: #CEF1DD
+  background-color: #CEF1DD;
 }
-one{
-  background-color: #CCDCDE ;
+
+.one{
+  background-color: #F1FCD0;
 }
-img{
+
+img {
   float: right;
 }
-h1{
+
+h1 {
   font-style: italic;
-  color: #186A3B  ;
+  color: #186A3B;
 }
-.two{
-  margin-left:50%;
-  margin-right:50%;
-  height:auto;
+
+.two {
+  margin-left: 50%;
+  margin-right: 50%;
+  height: auto;
   width: auto;
 }
-.p1{
+
+.p1 {
   font-family: monospace;
 }
-.p2{
+
+.p2 {
   font-family: courier New;
 }
-.p3{
-  font-stretch: 300%;
+
+.boo {
+  background-image: url("../img/mekids.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
