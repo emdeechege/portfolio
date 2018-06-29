@@ -23,3 +23,13 @@ one{
 img{
   float: right;
 }
+h1{
+  font-style: italic;
+  color: #186A3B  ;
+}
+.two{
+  margin-left:50%;
+  margin-right:50%;
+  height:auto;
+  width: auto;
+}
