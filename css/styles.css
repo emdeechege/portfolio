@@ -1,13 +1,25 @@
-img{
+.img1{
   float: right;
 }
-.note{
-  color:red;
-}
+
 .column{
   width=350px;
   float: right;
 }
 .menu{
   align-content: center;
+}
+}
+.box{
+    border: 3px solid red;
+  }
+ol{
+  text-align: justify;
+  background-color: #CEF1DD
+}
+one{
+  background-color: #CCDCDE ;
+}
+img{
+  float: right;
 }

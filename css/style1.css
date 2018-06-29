@@ -1,0 +1,16 @@
+img{
+  float: right;
+  margin: auto;
+}
+
+.note{
+  color:red;
+}
+h2{
+  font-family: serif;
+  font-style: italic;
+  font-size: 25px;}
+
+.one{
+  background-color: #CCDCDE ;
+}
